@@ -1,1 +1,1 @@
-# facedetection
+Face detection is a computer technology being used in a variety of applications that identifies human faces in digital images. In this project, I used transfer learning to train my model and synced with my laptop camera to identify the person name from the database. The database will have the similar photos of a person standing in front of the camera. If it's match with the database then it will pull the person name or else displays unknown. 
